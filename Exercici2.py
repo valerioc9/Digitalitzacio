@@ -1,0 +1,5 @@
+print("Suma els dos números:")
+a=input("Escreiu un número:")
+b=input("Escreiu un altre número:")
+suma=int(a)+int(b)
+print("La suma de", a, "+", b, "és:", suma)
